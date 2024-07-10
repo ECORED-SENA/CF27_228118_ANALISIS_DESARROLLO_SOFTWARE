@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Conceptos básicos de redes y networking',
+    componenteFormativo: 'Conceptos básicos de redes y <em>networking</em>',
     descripcionCurso:
       'Las redes de datos son aquellas que permiten interconectar diferentes dispositivos, con el propósito de compartir recursos e información. Para que la comunicación se dé, se requiere de una serie de elementos y componentes que la faciliten, como dispositivos y otras redes, para que incremente la productividad y facilite el acceso a los recursos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
@@ -178,7 +178,7 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Líder del Ecosistema',
+          cargo: 'Responsable del Ecosistema',
           centro: 'Dirección General',
         },
         {
@@ -193,13 +193,13 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Santiago Muñoz de la Rosa ',
+          nombre: 'Jonathan Guerrero Astaiza',
           cargo: 'Experto temático',
           centro:
             'Centro de Teleinformática y Producción Industrial - Regional Cauca',
         },
         {
-          nombre: 'Paola Alexandra Moya Peralta ',
+          nombre: 'Ana Catalina Córdoba Sus',
           cargo: 'Evaluadora Instruccional ',
           centro: 'Centro de Servicios de Salud - Regional Antioquia ',
         },
@@ -226,17 +226,17 @@ export default {
           centro:
             'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
         },
-        {
-          nombre: 'Daniela Muñoz Bedoya ',
-          cargo: 'Animador y Productor Multimedia',
-          centro:
-            'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
-        },
       ],
     },
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
+        {
+          nombre: 'Jaime Hernán Tejada Llano',
+          cargo: 'Validador de Recursos Educativos Digitales',
+          centro:
+            'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
+        },
         {
           nombre: 'Margarita Marcela Medrano Gómez ',
           cargo: 'Evaluador para Contenidos Inclusivos y Accesibles ',

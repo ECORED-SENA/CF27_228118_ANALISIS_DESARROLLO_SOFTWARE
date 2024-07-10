@@ -12,7 +12,7 @@
       .p-4(style="background-color:#DEBEFB;border-radius:12px;")
         .row
           .col(style="place-self:center;" data-aos="fade-right")
-            p.mb-0 En este componente formativo, se estudiarán los principios básicos de las redes de datos, sus componentes tanto físicos como lógicos, su interacción y comunicación. La fundamentación facilitará el acceso a recursos compartidos, incrementando su productividad. Se conocerá la definición y generalidades de las redes de datos, en la cual se comprenderá por qué son importantes, así mismo, se abordará los diferentes modelos de referencia, como son: ISO, IEEE, OSI, ANSI, EIA, TIA, UIT. Se llegará a los protocolos de comunicación, donde se conocerá sobre el emisor, destino, canal, código y mensaje, lo que permite que haya un ciclo adecuado en la comunicación. 
+            p.mb-0 En este componente formativo, se estudiarán los principios básicos de las redes de datos, sus componentes tanto físicos como lógicos, su interacción y comunicación. La fundamentación facilitará el acceso a recursos compartidos, incrementando su productividad. Se conocerá la definición y generalidades de las redes de datos, en la cual se comprenderá por qué son importantes, así mismo, se abordarán los diferentes modelos de referencia, como son: ISO, IEEE, OSI, ANSI, EIA, TIA, UIT. Se llegará a los protocolos de comunicación, donde se conocerá sobre el emisor, destino, canal, código y mensaje, lo que permite que haya un ciclo adecuado en la comunicación. 
           .col-auto.d-none.d-md-block(style="place-self:center;" data-aos="fade-left")
             figure
               img(src="@/assets/curso/intro1.png")
@@ -22,7 +22,7 @@
           figure
             img(src="@/assets/curso/intro2.png")
         .col(style="place-self:center;" data-aos="fade-left")
-          p Es igual importante trabajar en el conocimiento de los puertos de comunicación, donde se identificará el hardware y el software y se abordarán los medios de transmisión para reconocer los medios guiados como la fibra óptica y el cobre. De esta manera, el recorrido académico finalizará en los recursos compartidos y facilitará el trabajo que se realiza en red. 
+          p Igualmente, es importante trabajar en el conocimiento de los puertos de comunicación, donde se identificará el #[em hardware] y el #[em software] y se abordarán los medios de transmisión para reconocer los medios guiados como la fibra óptica y el cobre. De esta manera, el recorrido académico finalizará en los recursos compartidos y facilitará el trabajo que se realiza en red. 
           p.mb-0.fw-bold Muchos éxitos en este proceso de aprendizaje.  
 
 

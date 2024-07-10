@@ -57,7 +57,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema1/5.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Al inicio del desarrollo de la tecnología y más propiamente de la computación, los diferentes fabricantes construían sus equipos y dispositivos para que fueran compatibles con dispositivos de sus propias marcas, lo que no facilitaba la interconexión de equipos y dispositivos de fabricantes distintos. Esto llevó a la necesidad de estandarizar, de manera que se permita la interconexión de una amplia gama de dispositivos, sin importar fabricante o tipo de software. #[strong Para que el intercambio de información sea posible se requiere el establecimiento de una serie de estándares, los cuales son construidos por una serie de organizaciones:] 
+            p.mb-0 Al inicio del desarrollo de la tecnología y más propiamente de la computación, los diferentes fabricantes construían sus equipos y dispositivos para que fueran compatibles con dispositivos de sus propias marcas, lo que no facilitaba la interconexión de equipos y dispositivos de fabricantes distintos. Esto llevó a la necesidad de estandarizar, de manera que se permita la interconexión de una amplia gama de dispositivos, sin importar fabricante o tipo de #[em software]. #[strong Para que el intercambio de información sea posible se requiere el establecimiento de una serie de estándares, los cuales son construidos por una serie de organizaciones:] 
 
       .row.mt-5.justify-content-center(style="position:relative;")
         .col-lg-3.mb-5.col-md-6(data-aos="zoom-in")
@@ -74,7 +74,7 @@
           .h-100.p-3.pt-0.text-center(style="background-color:#E3DFEB;border-radius:8px;")
             figure.text-center
               img(src="@/assets/curso/tema1/8.svg" style="max-width:70px;display:inline;margin-top:-30px;")
-            p.mt-0.mb-0 Asociación de Industrias Telecomunicaciones  
+            p.mt-0.mb-0 Asociación de Industrias de Telecomunicaciones  
         .col-lg-3.mb-5.col-md-6(data-aos="zoom-in")
           .h-100.p-3.pt-0.text-center(style="background-color:#E3DFEB;border-radius:8px;")
             figure.text-center
@@ -116,7 +116,7 @@
         .tarjeta.color-acento-botones.p-3(x="50%" y="13%" numero="+" style="background-color:#E8EEFE;")
           p.mb-0 Cuyo lenguaje es utilizado para formar el mensaje.
     
-    p.mt-5(data-aos="fade-right") Como se evidencia, toda comunicación debe contar con un emisor, un mensaje a enviar y un código que permite que el mensaje viaje por un canal. Para que ambos actores puedan interactuar se requiere contar con un código o lenguaje común, el cual permite que se puedan entender; ese estándar o lenguaje común, es lo que conocemos como un protocolo de comunicaciones, el cual es un conjunto de normas que están obligadas a cumplir todos los dispositivos, hardware y #[em software] que intervienen en una comunicación de datos entre computadoras y demás dispositivos, sin estas reglas o estándares, la comunicación resultaría caótica y por tanto, imposible. 
+    p.mt-5(data-aos="fade-right") Como se evidencia, toda comunicación debe contar con un emisor, un mensaje a enviar y un código que permite que el mensaje viaje por un canal. Para que ambos actores puedan interactuar se requiere contar con un código o lenguaje común, el cual permite que se puedan entender; ese estándar o lenguaje común, es lo que conocemos como un protocolo de comunicaciones, el cual es un conjunto de normas que están obligadas a cumplir todos los dispositivos, #[em hardware] y #[em software] que intervienen en una comunicación de datos entre computadoras y demás dispositivos, sin estas reglas o estándares, la comunicación resultaría caótica y por tanto, imposible. 
 
     .row.mt-4
       .col-auto.d-none.d-md-block(style="place-self:center;" data-aos="fade-right")
@@ -158,7 +158,7 @@
       h2#t_1_3 1.3 Puertos de comunicación
     
     .cont_1_2.pb-5
-      p(data-aos="fade-right") Los puertos de comunicación son interfaces a través de la cual los diferentes dispositivos que intervienen en una comunicación de red, pueden enviar y recibir diferentes tipos de datos, los puertos pueden ser de tipo físico (#[em hardware]) o lógicos (#[em software]). 
+      p(data-aos="fade-right") Los puertos de comunicación son interfaces a través de las cuales los diferentes dispositivos que intervienen en una comunicación de red, pueden enviar y recibir diferentes tipos de datos, los puertos pueden ser de tipo físico (#[em hardware]) o lógico (#[em software]). 
 
       .row.mt-4
         .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
@@ -290,7 +290,7 @@
       h2#t_1_5 1.5 Recursos compartidos
     
     p(data-aos="fade-right") Las redes de datos facilitan y potencian el trabajo en red entre los diferentes usuarios y dispositivos, de tal manera que se pueda acceder a dispositivos y recursos compartidos. Cuando mencionamos los recursos nos referimos a todos esos elementos, tanto #[em hardware] como #[em software], que pueden ser compartidos y utilizados por los diferentes dispositivos conectados. 
-    p.fw-bold(data-aos="fade-left") Desde el punto de vista del hardware, estos recursos pueden ser: 
+    p.fw-bold(data-aos="fade-left") Desde el punto de vista del #[em hardware], estos recursos pueden ser: 
 
     .row.mt-4.justify-content-center
       .col-lg-3.mb-4.col-md-8(data-aos="zoom-in")
