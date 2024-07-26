@@ -148,9 +148,9 @@
     .col-xl-10.m-auto.mt-5
       .titulo-sexto.color-acento-contenido(data-aos="zoom-in-down")
         h5 Figura 1.
-        span Suite de protocolos según el modelo de referencia 
+        span #[i Suite] de protocolos según el modelo de referencia 
       figure
-        img(src="@/assets/curso/tema1/16.svg" data-aos="zoom-in-up")
+        img(src="@/assets/curso/tema1/16.svg" alt="La imagen muestra la suite de protocolos según el modelo de referencia." data-aos="zoom-in-up")
     
     Separador
 
@@ -194,7 +194,7 @@
           span Algunos puertos de comunicación con servicios de red comunes 
         .p-4.p-lg-5(style="background-color:#ECF2FF;" data-aos="zoom-in-up")
           figure
-            img(src="@/assets/curso/tema1/19.svg")
+            img(src="@/assets/curso/tema1/19.svg" alt="La imagen muestra algunos puertos de comunicación con servicios de red comunes.")
       
       Separador
 
